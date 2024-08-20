@@ -1,6 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi👋)
+
+안녕하세요. 백엔드 공부하는 학생입니다. 🧑‍💻 <br />
 
 💻 Blog - https://velog.io/@dongkyun0713/posts <br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongkyun0713)](https://velog.io/@dongkyun0713/posts) <br />
+
 
 <h3><b>Social</b></h3>
 <p> 
