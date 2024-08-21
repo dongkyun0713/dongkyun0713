@@ -20,8 +20,6 @@
 
 <h2>📈 Stats 📈</h2>
 
-<div align=center>
-
 ![dongkyun0713's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyun0713&show_icons=true&theme=radical)
 
 </div>
