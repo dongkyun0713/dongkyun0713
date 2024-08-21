@@ -2,7 +2,7 @@
 
 안녕하세요. 백엔드 공부하는 학생입니다. 🧑‍💻 <br />
 
-💻 Blog - https://velog.io/@dongkyun0713/posts <br />
+💻 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongkyun0713)](https://velog.io/@dongkyun0713/posts) <br />
 
 
