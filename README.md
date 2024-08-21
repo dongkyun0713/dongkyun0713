@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi👋)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋)
 
 안녕하세요. 백엔드 공부하는 학생입니다. 🧑‍💻 <br />
 
