@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋)
 
-안녕하세요. 백엔드 공부하는 학생입니다. 🧑‍💻 <br />
+안녕하세요. 백엔드 개발자 김동균입니다. 🧑‍💻 <br />
 
 <h2>💻 Blog  </h2>
 
