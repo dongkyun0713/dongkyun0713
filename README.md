@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
-<h2>📈 Stats </h2>
-
-![dongkyun0713's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongkyun0713&show_icons=true&theme=radical)
-
 <h2>🏆 Algorithm </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyun010713)](https://solved.ac/kyun010713)
