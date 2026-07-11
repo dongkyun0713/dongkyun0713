@@ -1,29 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi%20there👋)
+# Hi, I'm Dongkyun 👋
 
-안녕하세요. 백엔드 개발자 김동균입니다. 🧑‍💻 <br />
+- 기술을 먼저 도입하기보다 문제의 본질과 트레이드오프를 살피고, 기획과 협의해 가장 단순하고 적절한 해결책을 찾습니다.
+- 기능 구현에 그치지 않고 성능, 보안, 운영까지 고려해 지속 가능한 백엔드를 만듭니다.
 
-<h2>💻 Blog  </h2>
+## Technical Writing
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dongkyun0713)](https://velog.io/@dongkyun0713) <br />
+구현 방법만 기록하지 않고, 문제를 발견한 과정과 해결책을 선택한 근거를 정리합니다.
 
-<h2>📨 Social </h2>
-<p> 
-<a href="mailto:kyun010713@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+[Read more on my technical blog ↙️](https://dev-dongkyun.tistory.com/)
 
-<h2>📚 Stacks </h2>
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" />
-</p>
+## AI-assisted Workflow
 
-<h2>🏆 Algorithm </h2>
+`Claude Code`와 `Codex`를 개발 과정의 보조 도구로 활용합니다.
+
+* 구현 전 요구사항과 설계 검토
+* 반복 코드 작성과 리팩터링
+* 테스트 케이스와 예외 상황 탐색
+* 코드 리뷰와 문서화
+* ADR과 구현 계획 정리
+
+AI가 생성한 결과를 그대로 사용하는 대신, 코드와 설계의 근거를 직접 검증하는 것을 중요하게 생각합니다.
+
+
+## Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyun010713)](https://solved.ac/kyun010713)
-
-</div>
